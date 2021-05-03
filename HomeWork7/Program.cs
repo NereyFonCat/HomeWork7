@@ -7,6 +7,7 @@ namespace HomeWork7
         static void Main(string[] args)
         {
 
+
         }
     }
 }
